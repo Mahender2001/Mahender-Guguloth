@@ -1,0 +1,5 @@
+C:\Users\pnw\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\pnw\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnw\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\pnw\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\pnw\source\repos\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
