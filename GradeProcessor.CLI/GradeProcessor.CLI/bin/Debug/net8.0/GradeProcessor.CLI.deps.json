@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GradeProcessor.CLI/1.0.0": {
+        "dependencies": {
+          "GradeProcessor.Core": "1.0.0"
+        },
+        "runtime": {
+          "GradeProcessor.CLI.dll": {}
+        }
+      },
+      "GradeProcessor.Core/1.0.0": {
+        "runtime": {
+          "GradeProcessor.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GradeProcessor.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GradeProcessor.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

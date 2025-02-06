@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pnw\\source\\repos\\GradeProcessor.CLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26F0-CFC1-4434-BD18-6D5F49A4FE0D}|GradeProcessor.Tests\\GradeProcessor.Tests.csproj|c:\\users\\pnw\\source\\repos\\gradeprocessor.cli\\gradeprocessor.tests\\gradeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26F0-CFC1-4434-BD18-6D5F49A4FE0D}|GradeProcessor.Tests\\GradeProcessor.Tests.csproj|solutionrelative:gradeprocessor.tests\\gradeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D70798-9092-4321-86EC-57E1BA8E434A}|GradeProcessor.Core\\GradeProcessor.Core.csproj|c:\\users\\pnw\\source\\repos\\gradeprocessor.cli\\gradeprocessor.core\\gradeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D70798-9092-4321-86EC-57E1BA8E434A}|GradeProcessor.Core\\GradeProcessor.Core.csproj|solutionrelative:gradeprocessor.core\\gradeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7A9291-ACD2-489D-90D7-B5B434AD9D62}|GradeProcessor.CLI\\GradeProcessor.CLI.csproj|c:\\users\\pnw\\source\\repos\\gradeprocessor.cli\\gradeprocessor.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7A9291-ACD2-489D-90D7-B5B434AD9D62}|GradeProcessor.CLI\\GradeProcessor.CLI.csproj|solutionrelative:gradeprocessor.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\pnw\\source\\repos\\GradeProcessor.CLI\\GradeProcessor.Tests\\GradeProcessor.cs",
+              "RelativeDocumentMoniker": "GradeProcessor.Tests\\GradeProcessor.cs",
+              "ToolTip": "C:\\Users\\pnw\\source\\repos\\GradeProcessor.CLI\\GradeProcessor.Tests\\GradeProcessor.cs",
+              "RelativeToolTip": "GradeProcessor.Tests\\GradeProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:51:51.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\pnw\\source\\repos\\GradeProcessor.CLI\\GradeProcessor.Core\\GradeProcessor.cs",
+              "RelativeDocumentMoniker": "GradeProcessor.Core\\GradeProcessor.cs",
+              "ToolTip": "C:\\Users\\pnw\\source\\repos\\GradeProcessor.CLI\\GradeProcessor.Core\\GradeProcessor.cs",
+              "RelativeToolTip": "GradeProcessor.Core\\GradeProcessor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:51:27.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pnw\\source\\repos\\GradeProcessor.CLI\\GradeProcessor.CLI\\Program.cs",
+              "RelativeDocumentMoniker": "GradeProcessor.CLI\\Program.cs",
+              "ToolTip": "C:\\Users\\pnw\\source\\repos\\GradeProcessor.CLI\\GradeProcessor.CLI\\Program.cs",
+              "RelativeToolTip": "GradeProcessor.CLI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:50:53.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
